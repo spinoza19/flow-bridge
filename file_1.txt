@@ -1,4 +1,0 @@
-# flow-bridge
-Commit 2
-Date: 2023-03-27T22:23:05Z
-Add core module
