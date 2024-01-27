@@ -1,4 +1,0 @@
-# flow-bridge
-Commit 3
-Date: 2023-11-06T16:50:23Z
-Fix edge case
